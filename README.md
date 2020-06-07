@@ -5,4 +5,4 @@ The GAIA methodology was used for the design and analysis of the multi-agent sys
 
 This repository contains:
 
-- Source code for the workforce scheduling of the airline using the JADE framework, FIPA-ACL communication. To solve the problem at hand, a genetic algorithm was implemented.
+- Source code for the workforce scheduling of the airline using the JADE framework and FIPA-ACL communication. To solve the problem at hand, a genetic algorithm was implemented.
