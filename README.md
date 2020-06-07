@@ -5,4 +5,8 @@ The GAIA methodology was used for the design and analysis of the multi-agent sys
 
 This repository contains:
 
+- Information provided by the airline that will be used as entry parameters. This information contains all the restrictions that the solution must meet, data from the airline employees, such as the skills to carry out tasks.
+
+- Diagrams and documentation describing in more detail the case study, its justification, the objectives proposed by the work team and finally the development of the proposed methodology, showing the step by step of the analysis and design phase governed by the agent-oriented methodology GAIA.
+
 - Source code for the workforce scheduling of the airline using the JADE framework and FIPA-ACL communication. To solve the problem at hand, a genetic algorithm was implemented.
