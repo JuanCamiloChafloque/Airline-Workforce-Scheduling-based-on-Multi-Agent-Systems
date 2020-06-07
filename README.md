@@ -1,6 +1,6 @@
 # Airline-Workforce-Scheduling-using-Multi-Agent-Systems
 
-This repository is intended to show the solution to the workforce scheduling problem at the check-in counters of an airline company in the El Dorado Airport, Colombia.
+This repository is intended to show the solution to the workforce scheduling problem at the check-in counters of an airline company in the El Dorado Airport, Colombia. Also, a vehicle routing optimization is developed to improve employee transportation from their households to the airport and from the airport to their households.
 The GAIA methodology was used for the design and analysis of the multi-agent systems, while JADE (Java Agent DEvelopment Framework) was used for the development of agents and for the implementation of the solution to the problem of personnel scheduling.
 
 This repository contains:
