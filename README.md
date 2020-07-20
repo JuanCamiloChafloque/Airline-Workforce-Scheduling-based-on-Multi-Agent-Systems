@@ -9,4 +9,4 @@ This repository contains:
 
 - Diagrams and documentation describing in more detail the case study, its justification, the objectives proposed by the work team and finally the development of the proposed methodology, showing the step by step of the analysis and design phase governed by the agent-oriented methodology GAIA.
 
-- Source code for the workforce scheduling of the airline using the JADE framework and FIPA-ACL communication. To solve the problem at hand, a genetic algorithm was implemented. To run the program you'll need to have the jade.jar extension. You can donwload it from ### and include it in the .classpath of the project.
+- Source code for the workforce scheduling of the airline using the JADE framework and FIPA-ACL communication. To solve the problem at hand, a genetic algorithm was implemented. To run the program you'll need to have the jade.jar extension. You can donwload it from https://jade.tilab.com/download/jade/ and include it in the .classpath of the project.
